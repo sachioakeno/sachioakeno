@@ -1,7 +1,7 @@
 
 ###
 ![sachio](github-header-banner.png)
-<h2 align="left">My name is Sachio Akeno Chan <br>Student at Binus Alam Sutera</h2>
+<h2 align="left">My name is Sachio Akeno Chan</h2>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-
+<h2 align="left">Socials</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/sachio-akeno-chan-4a74892b9/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
